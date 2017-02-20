@@ -5,7 +5,7 @@ a simple tool resolving go's dependency.
 `go get github.com/kwf2030/gd`
 
 1. chdir to project root directory
-2. create a vendor.json(example)
+2. create a vendor.json([example](vendor.json))
 3. execute `gd`
 
 ## Internal Workflow
