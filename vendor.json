@@ -1,0 +1,23 @@
+{
+  "dependencies": [
+    {
+      "package": "golang.org/x/net/html",
+      "version": "61557ac0112b576429a0df080e1c2cef5dfbb642",
+      "repo": "https://github.com/golang/net.git",
+      "conf": {
+        "proxy": "socks5://127.0.0.1:1080"
+      }
+    },
+    {
+      "package": "github.com/andybalholm/cascadia",
+      "version": "349dd0209470eabd9514242c688c403c0926d266"
+    },
+    {
+      "package": "github.com/PuerkitoBio/goquery",
+      "version": "v1.1.0"
+    }
+  ],
+  "conf": {
+    "proxy": ""
+  }
+}
